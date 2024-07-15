@@ -1,3 +1,8 @@
-<div class="container">
-    <h1>INICIO</h1>
-</div>
+<?php
+include "modules/slide.php";
+include "modules/banner.php";
+include "modules/free.php";
+include "modules/most-seen.php";
+include "modules/most-sold.php";
+include "modules/visit.php";
+?>
