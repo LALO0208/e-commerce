@@ -23,14 +23,14 @@
     position: relative;
 }
 .opt1 img, .opt2 img{
-    position: absolute;
+    position:absolute;
 }
 .opt1 .slideText{
-    position: absolute;
+    position:absolute;
 }
 .opt2 .slideText{
-    position: absolute;
-    text-align: right;
+    position:absolute;
+    text-align:right;
 }
 .slideOpt h1{
     font-family: 'Ubuntu Condensed', sans-serif;
