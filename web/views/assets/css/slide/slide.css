@@ -1,0 +1,9 @@
+.jd-slider{
+    position: relative;
+}
+
+.jd-slider .controller{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
