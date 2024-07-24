@@ -3,6 +3,7 @@
 }
 
 .jd-slider .controller{
+    background-color: rgba(0, 0, 0, .1);
     position: absolute;
     bottom: 0px;
     left: 0px;
@@ -40,4 +41,53 @@
 }
 .slideOpt h3{
     font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+@media (max-width: 1199px) and (min-width: 992px) {
+    .slideOpt h1 {
+        font-size: 35px;
+        margin-top: 5px;
+    }
+    .slideOpt h2 {
+        font-size: 30px;
+    }
+    .slideOpt h3 {
+        font-size: 20px;
+    }
+    .slideOpt button {
+        padding: 10px;
+    }
+}
+
+@media (max-width:991px) and (min-width:768px){
+    .slideOpt h1{
+        font-size: 25px;
+        margin-top: 5px;
+    }
+    .slideOpt h2{
+        font-size: 20px;
+    }
+    .slideOpt h3{
+        font-size: 15px;
+    }
+    .slideOpt button{
+        padding: 5px;
+    }
+}
+@media (max-width:767px){
+    .slideOpt h1{
+        font-size: 15px;
+        margin-top: 5px;
+        margin-bottom: -20px;
+    }
+    .slideOpt h2{
+        display: none;
+    }
+    .slideOpt h3{
+        font-size: 20px;
+        margin-top: 25px;
+    }
+    .slideOpt button{
+        padding: 5px;
+    }
 }

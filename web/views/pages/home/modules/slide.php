@@ -10,7 +10,7 @@
                     <div class="slideText" style="top: 20%; left: 10%; width:40%">
                         <h1 class="text-uppercase" style="color:#333">Lorem ipsum</h1>
                         <h2 class="text-uppercase" style="color:#777">Lorem ipsum dolor s</h2>
-                        <h3 class="text-uppercase" style="color:#888">Lorem ipsum dolor s</h3>
+                        <h3 class="text-uppercase" style="color:#888">Lorem ipsum dolor saa</h3>
                         <a href="#">
                             <button class="my-lg-3 btn text-uppercase templateColor border-0">
                                 VER PRODUCTO
@@ -26,7 +26,7 @@
                     <div class="slideText" style="top:20%; left:15%; width:70%">
                         <h1 class="text-uppercase" style="color:#fff">Lorem ipsum</h1>
                         <h2 class="text-uppercase" style="color:#fff">Lorem ipsum dolor s</h2>
-                        <h3 class="text-uppercase" style="color:#fff">Lorem ipsum dolor s</h3>
+                        <h3 class="text-uppercase" style="color:#fff">Lorem ipsum dolor saa</h3>
                         <a href="#">
                             <button class="my-lg-3 btn text-uppercase templateColor border-0">
                                 VER PRODUCTO
@@ -40,13 +40,13 @@
             </li>
         </ul>
     </div>
-    <a class="prev" href="#">
+    <a class="prev d-none d-lg-block" href="#">
         <i class="fas fa-angle-left text-white px-3 py-4 rounded-right" style="background: rgba(0,0,0,.5)"></i>
     </a>
-    <a class="next" href="#">
+    <a class="next d-none d-lg-block" href="#">
         <i class="fas fa-angle-right text-white px-3 py-4 rounded-left" style="background: rgba(0,0,0,.5)"></i>
     </a>
-    <div class="controller">
+    <div class="controller py-2">
         <div class="indicate-area">
 
         </div>
