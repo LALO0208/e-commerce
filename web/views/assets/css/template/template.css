@@ -15,7 +15,7 @@ ol {
     background: black; 
     color:white;
 }
-.templateColor{
+.templateColor, .templateColor:hover{
     background: #47BAC1;
     color: white;
 }
