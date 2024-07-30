@@ -29,6 +29,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <!-- Theme style -->
   <link rel="stylesheet" href="<?php echo $path ?>views/assets/css/plugins/adminlte/adminlte.min.css">
   <link rel="stylesheet" href="<?php echo $path ?>views/assets/css/template/template.css">
+  <link rel="stylesheet" href="<?php echo $path ?>views/assets/css/products/products.css">
+
 
 
   <!-- jQuery -->

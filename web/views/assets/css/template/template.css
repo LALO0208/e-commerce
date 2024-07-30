@@ -15,9 +15,9 @@ ol {
     background: black; 
     color:white;
 }
-.templateColor, .templateColor:hover{
-    background: #47BAC1;
-    color: white;
+.templateColor, .templateColor:hover, a.templateColor{
+    background: #47BAC1 !important;
+    color: white !important;
 }
 a:link,
 a:visited,
